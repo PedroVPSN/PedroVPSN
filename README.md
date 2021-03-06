@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/pedrovpsn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
+
