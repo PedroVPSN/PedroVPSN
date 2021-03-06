@@ -40,6 +40,3 @@ Here are some ideas to get you started:
 </p>
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroVPSN&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroVPSN&layout=compact&theme=tokyonight)
-
