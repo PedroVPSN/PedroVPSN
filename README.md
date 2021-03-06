@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 	<a href="https://github.com/pedrovpsn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/pedro-silva-03b9161a3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrovpsn&theme=tokyonight&show_icons=true)
