@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'am Pedro👋
 
 ![](gif-profile.gif)
 
@@ -17,9 +17,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Let's Connect :coffee:
+### Tools and Technologies
 <p align="center">
-	<a href="https://github.com/pedrovpsn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href=""><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/>
+	<img src="https://img.icons8.com/color/48/4a90e2/html-filetype.png"/>
+	<img src="https://img.icons8.com/ultraviolet/48/4a90e2/css.png"/>
+	<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+	<img src="https://img.icons8.com/color/48/4a90e2/react-native.png"/>
+	<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+	<img src="https://img.icons8.com/color/48/4a90e2/nodejs.png"/>
+	<img src="https://img.icons8.com/color/48/4a90e2/npm.png"/>
+	<img src="https://img.icons8.com/color/48/4a90e2/json--v1.png"/>
+	<img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
+	<img src="https://img.icons8.com/color/48/4a90e2/heroku.png"/>
+	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 
+### Let's Connect :computer:
+<p align="center">
+	<a href="https://github.com/pedrovpsn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/pedro-silva-03b9161a3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
