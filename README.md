@@ -1,4 +1,4 @@
-### Hi there, I'am Pedro👋
+### Hi there, I'm Pedro👋
 
 ![](gif-profile.gif)
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 </p>
 
-### Let's Connect :computer:
+### Let's Connect <img src="https://img.icons8.com/color/32/000000/omnichannel--v2.png"/>
 <p>
 	<a href="https://github.com/pedrovpsn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/pedro-silva-03b9161a3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
