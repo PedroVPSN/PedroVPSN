@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 </p>
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroVPSN&theme=tokyonight&show_icons=true)
+
+![Visitor Count](https://profile-counter.glitch.me/{pedroVPSN}/count.svg
